@@ -4,7 +4,7 @@
 
 ## Opcenito
 
-Web aplikacija rađena u sklopu projekta predmeta Programsko Inženjerstvo.
+Web application for organizing dancing classes created as project for course Software Engineering. 
 
 Java Spring Boot, PostgreSQL, React.js
 
